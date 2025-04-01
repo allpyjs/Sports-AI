@@ -1,13 +1,13 @@
-# BodyBuilding-Count-WithAI-Flask
-Build by [Christopher](https://www.linkedin.com/in/rlchristopherdev/) (https://fchrisdev.netlify.app/)
+# SportsAI
+
 
 This project is a machine learning project that imports physical training records from a camera or video in real time and counts the records.
 
 ![Sit Up01 ](sit-up01.png)
 
 ![Sit Up02 ](sit-up02.png)
+![Demo](1.gif)
 
-Users only click button
 
 # setup
 
